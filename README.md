@@ -1,2 +1,2 @@
 # CS161
-C++
+ Intro to Computer Science I in C++
